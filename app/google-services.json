@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1015707204154",
+    "firebase_url": "https://androidwearpush.firebaseio.com",
+    "project_id": "androidwearpush",
+    "storage_bucket": "androidwearpush.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015707204154:android:adcd77da95d65099",
+        "android_client_info": {
+          "package_name": "com.survivingwithandroid.fpush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015707204154-ghosl3volmek7r1oc1aitsjt7tg0tj1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHyrYoBPK8dci5i1o4qp7HWsr59448yb8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
